@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 100px solid #fff;
+}
+.first{
+    background: red;
+    height: 45vh;
+    width: 100%;
+}
+.second{
+    background: skyblue;
+    height: 45vh;
+    width: 100%;
+}
+.third{
+    background: violet;
+    height: 45vh;
+    width: 100%;
+}
+.four{
+    background: green;
+    height: 45vh;
+    width: 100%;
+}
